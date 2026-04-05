@@ -69,3 +69,4 @@ Finally, you can stop the local network with:
 ```bash
 icp network stop
 ```
+# ICForge Test App
