@@ -70,3 +70,4 @@ Finally, you can stop the local network with:
 icp network stop
 ```
 # ICForge Test App
+
