@@ -1,4 +1,4 @@
-# Hello World
+# Hello World!
 
 This example demonstrates a full-stack dapp with a frontend and backend canister, showing how to pass environment variables from the asset canister to the frontend webapp.
 
@@ -70,8 +70,3 @@ Finally, you can stop the local network with:
 icp network stop
 ```
 # ICForge Test App
-
-
-
-
-
