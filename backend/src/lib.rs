@@ -9,3 +9,4 @@ fn greet(name: String) -> String {
 // build trigger 5 - full e2e
 // build trigger 6 - full e2e
 // build trigger 7 - full e2e
+// build trigger 8 - full e2e
