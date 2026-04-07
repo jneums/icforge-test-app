@@ -6,3 +6,4 @@ fn greet(name: String) -> String {
 // build trigger 2
 // build trigger 3
 // build trigger 4 - full e2e
+// build trigger 5 - full e2e
